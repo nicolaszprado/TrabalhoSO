@@ -1,0 +1,1 @@
+O projeto "TrabalhoSO" é uma implementação de conceitos de sistemas operacionais, focando especificamente em busca no disco e substituição de páginas. Ele aborda a simulação de técnicas para otimizar a gestão de memória em sistemas operacionais, utilizando programação para modelar essas funcionalidades essenciais para a operação eficiente de um computador.
